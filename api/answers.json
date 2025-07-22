@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "name": "Thomas Anderson",
+    "quest": "Best coder in the world", 
+    "location": "Metacortex",
+    "favorite-color": "green",
+    "hobby": "Hacking"
+
+  },
+  {
+    "id": 1,
+    "name": "Neo",
+    "quest": "Free humanity from the Matrix",
+    "location": "Zion",
+    "favorite-color": "red",
+    "hobby": "Fighting for freedom"
+  },
+  {
+    "id": 2,
+    "name": "Morpheus",
+    "quest": "Find the One",
+    "location": "Nebuchadnezzar",
+    "favorite-color": "black",
+    "hobby": "Training"
+  },
+  {
+    "id": 3,
+    "name": "Trinity",
+    "quest": "Support Neo",
+    "location": "Zion",
+    "favorite-color": "white",
+    "hobby": "Limbo dancing"
+  },
+  {    "id": 4,
+    "name": "Agent Smith",
+    "quest": "Eliminate Neo",
+    "location": "Matrix",
+    "favorite-color": "grey",
+    "hobby": "Anthropology"
+  },
+  {
+    "id": 5,
+    "name": "Oracle",
+    "quest": "Guide Neo",
+    "location": "Projects",
+    "favorite-color": "blue",
+    "hobby": "Baking cookies"
+  },
+  {
+    "id": 6,
+    "name": "Cypher",
+    "quest": "Betray the crew",
+    "location": "Matrix",
+    "favorite-color": "yellow",
+    "hobby": "Acting"
+  }
+]
